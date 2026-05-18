@@ -1,0 +1,38 @@
+commit 85ac4bfc65b12cf1121a75e967585d1c77ae6efa
+Merge: 66e84d0 193b69b
+Author: Kaito-footstar <251205121@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 14:23:11 2026 +0900
+
+    Merge branch 'main' of https://github.com/Kaito-footstar/20260518-git-workshop
+
+commit 66e84d0a3c914afef13bba6f34c6aca883e05830
+Author: Kaito-footstar <251205121@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 14:19:42 2026 +0900
+
+    Update tetris.js
+
+commit 193b69b56d3d4c8526c5547473e95d488651c253
+Author: Kaito-footstar <251205121@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 14:17:03 2026 +0900
+
+    Update tetris.js
+    
+    cyanをskyblueに変更
+
+commit fe9c87148f3f369fb381eafd601f86b603ebd143
+Author: Kaito-footstar <251205121@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 14:06:53 2026 +0900
+
+    落ちてくるスピードを遅くする
+
+commit a575aad87ba7908749c4befe67a7db90dc9cff6c
+Author: Kaito-footstar <251205121@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 13:52:02 2026 +0900
+
+    色を変える
+
+commit e10ffb117d76a41c0ca3a028343b49af640f177b
+Author: Kaito-footstar <251205121@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 13:33:02 2026 +0900
+
+    camvas-tetrisのソースコードをインポート
